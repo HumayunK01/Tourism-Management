@@ -94,7 +94,7 @@ include('includes/config.php');
 			</div>
 			<div class="col-md-4 routes-left">
 				<div class="rou-left">
-					<a href="#"><i class="fa fa-user"></i></a>
+					<a href="#"><i class="fa fa-user"></i></a>	
 				</div>
 				<div class="rou-rgt">
 					<h3>1900</h3>

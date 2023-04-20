@@ -2,7 +2,7 @@
 	<div class="top-header">
 		<div class="container">
 			<ul class="tp-hd-lft wow fadeInLeft animated">
-				<li class="hm"><a href="index.html"><i class="fa fa-home"></i></a></li>
+				<li class="hm"><a href="index.phpl"><i class="fa fa-home"></i></a></li>
 				<li class="prnt"><a href="profile.php">My Profile</a></li>
 				<li class="prnt"><a href="change-password.php">Change Password</a></li>
 				<li class="prnt"><a href="tour-history.php">My Tour History</a></li>
@@ -22,8 +22,8 @@
 	<div class="top-header">
 		<div class="container">
 			<ul class="tp-hd-lft wow fadeInLeft animated">
-				<li class="hm"><a href="index.html"><i class="fa fa-home"></i></a></li>
-				<li class="hm"><a href="admin/index.html">Admin Login</a></li>
+				<li class="hm"><a href="index.php"><i class="fa fa-home"></i></a></li>
+				<li class="hm"><a href="admin/index.php">Admin Login</a></li>
 			</ul>
 			<ul class="tp-hd-rgt wow fadeInRight animated">
 				<li class="tol">Toll Number : 123-4568790</li>
@@ -39,7 +39,7 @@
 <div class="header">
 	<div class="container">
 		<div class="logo">
-			<a href="index.html"><img src="./images/logo.png" style="width: 140px;"></a>
+			<a href="index.php"><img src="./images/logo.png" style="width: 140px;"></a>
 		</div>
 
 		<div class="lock">
@@ -72,7 +72,7 @@
 				<div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
 					<nav class="cl-effect-1">
 						<ul class="nav navbar-nav">
-							<li><a href="index.html">Home</a></li>
+							<li><a href="index.php">Home</a></li>
 							<li><a href="page.php?type=aboutus">About</a></li>
 							<li><a href="package-list.php">Tour Packages</a></li>
 							<li><a href="page.php?type=privacy">Privacy Policy</a></li>

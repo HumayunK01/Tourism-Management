@@ -74,7 +74,7 @@ if (isset($_POST['login'])) {
 					<div class="clearfix"></div>
 				</form>
 				<div class="back">
-					<a href="../index.html">Back to home</a>
+					<a href="../index.php">Back to home</a>
 				</div>
 
 			</div>
