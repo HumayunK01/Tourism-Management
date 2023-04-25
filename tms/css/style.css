@@ -474,13 +474,15 @@ i.fa.fa-ticket {
 /*-- /footer --*/
 /*-- bus --*/
 .banner-1 {
-    background: url(../images/3.jpg)no-repeat;
+    background: url(../images/banner.jpg)no-repeat;
+    background-position: center;
+    background-attachment: fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
     -moz-background-size: cover;
-    min-height: 200px;
+    min-height: 230px;
 }
 
 .banner-1 h1 {

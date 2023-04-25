@@ -1,3 +1,3 @@
 <div class="copyrights">
-	 <p>© 2020 TMS. All Rights Reserved |  <a href="#">TMS</a> </p>
+	 <p>© 2023 <a href="#">INDIVisit</a> . All Rights Reserved</p>
 </div>	
