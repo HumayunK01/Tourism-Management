@@ -10,7 +10,7 @@ include('includes/config.php');
 	<title>INDIVisit</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-
+	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 	<link href="css/style.css" rel='stylesheet' type='text/css' />
 	<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
@@ -62,7 +62,7 @@ include('includes/config.php');
 							</p>
 						</div>
 						<div class="col-md-3 room-right wow fadeInRight animated" data-wow-delay=".5s">
-							<h5>Rupees
+							<h5>USD
 								<?php echo htmlentities($result->PackagePrice); ?>
 							</h5>
 							<a href="package-details.php?pkgid=<?php echo htmlentities($result->PackageId); ?>"

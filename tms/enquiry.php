@@ -33,6 +33,7 @@ if (isset($_POST['submit1'])) {
 	<title>IndiVisit | Enquiry</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 	<meta name="keywords" content="Tourism Management System In PHP" />
 	<script
 		type="applijewelleryion/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
@@ -92,7 +93,7 @@ if (isset($_POST['submit1'])) {
 		<?php include('includes/header.php'); ?>
 		<div class="banner-1 ">
 			<div class="container">
-				<h1 class="wow" style="font-weight: 600;">ENQUIRY</h1>
+				<h1 class="wow" style="font-weight: 600;">INDIVIST | ENQUIRY</h1>
 			</div>
 		</div>
 		<!--- /banner-1 ---->

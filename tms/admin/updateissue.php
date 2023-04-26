@@ -35,7 +35,8 @@ if (strlen($_SESSION['alogin']) == 0) {
 
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-    <title>Update Compliant</title>
+    <title>INDIVisit | Update Compliant</title>
+    <link rel="shortcut icon" href="../images/favicon.png" type="image/x-icon">
     <link href="style.css" rel="stylesheet" type="text/css" />
     <link href="anuj.css" rel="stylesheet" type="text/css">
   </head>

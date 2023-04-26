@@ -34,6 +34,7 @@ if (isset($_POST['submit2'])) {
 	<title>INDIVisit | Package Details</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 	<script
 		type="applijewelleryion/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
@@ -161,7 +162,7 @@ if (isset($_POST['submit2'])) {
 								<div class="clearfix"></div>
 								<div class="grand">
 									<p>Grand Total</p>
-									<h3>USD.800</h3>
+									<h3>$ USD</h3>
 								</div>
 							</div>
 							<h3>Package Details</h3>

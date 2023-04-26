@@ -33,6 +33,7 @@ if (isset($_POST['submit50'])) {
 	<title>INDIVisit | Forgot Password</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
 	<meta name="keywords" content="Tourism Management System In PHP" />
 	<script
 		type="applijewelleryion/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
