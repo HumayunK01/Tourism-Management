@@ -19,10 +19,6 @@ if (strlen($_SESSION['alogin']) == 0) {
 		$msg = "Enquiry  successfully read";
 	}
 
-
-
-
-
 	?>
 	<!DOCTYPE HTML>
 	<html>

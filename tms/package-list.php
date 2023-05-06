@@ -50,7 +50,7 @@ include('includes/config.php');
 	<!--- banner ---->
 	<div class="banner-3">
 		<div class="container">
-			<h1 class="wow" style="font-weight: 600;">INDIVIST | PACKAGES</h1>
+			<h1 class="wow" style="font-weight: 600;">INDIVISIT | PACKAGES</h1>
 		</div>
 	</div>
 	<!--- /banner ---->

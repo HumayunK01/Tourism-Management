@@ -33,9 +33,6 @@ if (strlen($_SESSION['alogin']) == 0) {
 		$msg = "Booking Confirm successfully";
 	}
 
-
-
-
 	?>
 	<!DOCTYPE HTML>
 	<html>

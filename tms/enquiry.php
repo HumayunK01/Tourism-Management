@@ -93,7 +93,7 @@ if (isset($_POST['submit1'])) {
 		<?php include('includes/header.php'); ?>
 		<div class="banner-1 ">
 			<div class="container">
-				<h1 class="wow" style="font-weight: 600;">INDIVIST | ENQUIRY</h1>
+				<h1 class="wow" style="font-weight: 600;">INDIVISIT | ENQUIRY</h1>
 			</div>
 		</div>
 		<!--- /banner-1 ---->
