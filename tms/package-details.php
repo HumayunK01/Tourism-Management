@@ -161,7 +161,7 @@ if (isset($_POST['submit2'])) {
 								</div>
 								<div class="clearfix"></div>
 								<div class="grand">
-									<p>Grand Total</p>
+									<p>Currency</p>
 									<h3>$ USD</h3>
 								</div>
 							</div>
@@ -179,7 +179,7 @@ if (isset($_POST['submit2'])) {
 								<ul>
 
 									<li class="spe">
-										<label class="inputLabel">Comment</label>
+										<label class="inputLabel">No. Of Members</label>
 										<input class="special" type="text" name="comment" required="">
 									</li>
 									<?php if ($_SESSION['login']) { ?>

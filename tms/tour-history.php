@@ -141,7 +141,7 @@ if (strlen($_SESSION['login']) == 0) {
 								<th>Package Name</th>
 								<th>From</th>
 								<th>To</th>
-								<th>Comment</th>
+								<th>No. Of Members</th>
 								<th>Status</th>
 								<th>Booking Date</th>
 								<th>Action</th>
